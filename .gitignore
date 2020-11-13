@@ -144,6 +144,7 @@ cython_debug/
 datasets/
 detectron2/
 mmdetection/
+Yolo-v2-pytorch/
 **/*.pkl
 **/*.pth
 *.pkl
