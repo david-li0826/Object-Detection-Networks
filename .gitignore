@@ -145,6 +145,7 @@ datasets/
 detectron2/
 mmdetection/
 Yolo-v2-pytorch/
+automl/
 **/*.pkl
 **/*.pth
 *.pkl
