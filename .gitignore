@@ -151,3 +151,5 @@ automl/
 *.pkl
 *.pth
 *.zip
+*.json
+**/*.json
